@@ -10,7 +10,7 @@ Pick gradient colors.
         'value' => array(
             'primary'   => '#FF0000',
             'secondary' => '#0000FF',
-        )
+        ),
         'attr'  => array( 'class' => 'custom-class', 'data-foo' => 'bar' ),
         'label' => __('Label', '{domain}'),
         'desc'  => __('Description', '{domain}'),
